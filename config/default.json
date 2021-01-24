@@ -1,0 +1,6 @@
+{
+    "port": 5353,
+    "jwtSecret": "MikhaillkinSecretKey",
+    "mongoUri": "mongodb+srv://Mikhaillkin:123@cluster0.hvsgj.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5353"
+}
